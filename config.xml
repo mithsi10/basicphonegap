@@ -13,9 +13,6 @@
     <author href="" email="mithsee@gmail.com">
         MithSi
     </author>
-
-    <preference name="phonegap-version" value="2.2.0" />
-    <preference name="webviewbounce" value="false" />
-            
+                
     <icon src="img/icon.png" />
 </widget>
